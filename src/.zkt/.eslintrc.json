@@ -1,0 +1,1 @@
+{"parserOptions":{"ecmaVersion":6,"sourceType":"module","ecmaFeatures":{}},"rules":{"no-void":2,"no-unused-vars":2,"no-console":2,"no-var":2},"env":{"worker":false}}
